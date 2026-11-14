@@ -1,7 +1,6 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm [adequteorqr] 👋
 
 > Building thoughtful digital experiences with code, curiosity, and a love for problem-solving.
-
 I’m a [Your Profession / Role], passionate about [your focus area]. I enjoy creating clean, scalable, and user-centered solutions while continuously learning and experimenting with new technologies.
 
 ![GitHub followers](https://img.shields.io/github/followers/n3v3rgobackagain-web?style=social)
